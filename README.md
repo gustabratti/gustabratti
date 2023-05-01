@@ -10,5 +10,5 @@ Olá 👋
 ## Atualmente aprendendo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img align="center" alt="Bratti-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1086841751664328705/1102689861728735333/Design_sem_nome_1.gif">
+<img align="center" alt="Bratti-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1086841751664328705/1102700588166295622/profile.gif">
 </div>
