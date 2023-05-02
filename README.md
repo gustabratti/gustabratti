@@ -9,6 +9,8 @@ Olá 👋
 
 ## Atualmente aprendendo
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 <img align="center" alt="Bratti-pic" height="170" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1086841751664328705/1102700588166295622/profile.gif">
 </div>
