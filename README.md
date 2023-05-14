@@ -1,5 +1,5 @@
 
-<img align="center" alt="Bratti-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032464508813312071/1106761828689793114/download20230505225540.png">
+<img align="center" alt="Bratti-pic" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1032464508813312071/1107374318117191750/download20230505232441.png">
 
 Olá 👋
 
